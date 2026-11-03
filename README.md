@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I’m Nitesh 👋
 
-<!--
-**Nitesh715/Nitesh715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cybersecurity projects | SOC workflows | Threat detection
 
-Here are some ideas to get you started:
+I build practical security tools focused on explainable detections, telemetry analysis, and incident triage.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+
+- [Mini-SOC Workbench](https://github.com/Nitesh715/Mini-SOC-Workbench) — ATT&CK-mapped detections, synthetic telemetry, alert correlation, and a coverage dashboard.
+- [Advanced Cyber Security Toolkit](https://github.com/Nitesh715/Advanced-Cyber-Security-Toolkit) — Python tools for authorized security analysis, monitoring, and reporting.
+- [Threat Detection Mapped to MITRE ATT&CK](https://github.com/Nitesh715/Threat-Detection-Mapped-to-MITRE-ATTACK) — An offline-first workbench with explainable rules and a local analyst dashboard.
+
+## Focus areas
+
+SOC workflows · MITRE ATT&CK · Detection engineering · Python · Wazuh
