@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Nitesh | Cybersecurity and Python Developer</title>
+  <desc id="desc">A dark blue technology banner with network nodes and cybersecurity-themed text.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071426"/>
+      <stop offset="1" stop-color="#123b5d"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#34d399"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="22" fill="url(#bg)"/>
+  <g stroke="#38bdf8" stroke-opacity=".25" stroke-width="2" fill="none">
+    <path d="M760 45L900 110L1040 55L1140 145L1010 245L850 220L760 45M900 110L850 220M900 110L1140 145M1040 55L1010 245"/>
+    <path d="M720 270L850 220L1010 245L1140 145"/>
+  </g>
+  <g fill="#38bdf8">
+    <circle cx="760" cy="45" r="6"/><circle cx="900" cy="110" r="7"/><circle cx="1040" cy="55" r="6"/>
+    <circle cx="1140" cy="145" r="7"/><circle cx="1010" cy="245" r="6"/><circle cx="850" cy="220" r="7"/><circle cx="720" cy="270" r="5"/>
+  </g>
+  <rect x="70" y="62" width="7" height="190" rx="3" fill="url(#accent)"/>
+  <text x="105" y="135" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="700">NITESH</text>
+  <text x="108" y="180" fill="#7dd3fc" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="600">CYBERSECURITY • PYTHON • SOC</text>
+  <text x="108" y="222" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="18">Building defensive security tools and practical threat-detection projects</text>
+  <text x="108" y="270" fill="#94a3b8" font-family="Consolas, monospace" font-size="14">LEARN  /  BUILD  /  DETECT  /  IMPROVE</text>
+</svg>
