@@ -1,68 +1,88 @@
 <div align="center">
 
-# Hi, I'm Nitesh 👋
+<img src="assets/profile-banner.svg" alt="Nitesh — Cybersecurity, Python and SOC" width="100%"/>
 
 ### Cybersecurity Student | Python Developer | SOC & Threat Detection Enthusiast
 
-Building practical cybersecurity tools, defensive security workflows, and explainable threat-detection projects.
+Building practical defensive security tools, detection workflows, and security automation projects.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Nitesh715-181717?style=for-the-badge&logo=github)](https://github.com/Nitesh715)
-[![Python](https://img.shields.io/badge/Python-Projects-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Nitesh715?tab=repositories)
+[![Repositories](https://img.shields.io/badge/Explore-My%20Projects-0A66C2?style=for-the-badge&logo=github)](https://github.com/Nitesh715?tab=repositories)
 
 </div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
 - 🎓 Student focused on cybersecurity and practical software development.
 - 🔐 Interested in Security Operations (SOC), threat detection, incident response, and ethical hacking.
-- 🐍 Building projects with Python, APIs, databases, and web technologies.
-- 🧪 Learning by creating hands-on labs and defensive security tools.
-- 🎯 Goal: grow into a cybersecurity professional through continuous learning and project work.
+- 🐍 Build projects using Python, APIs, databases, and web technologies.
+- 🧪 Learn through hands-on labs, defensive security tooling, and technical documentation.
+- 🎯 Career goal: grow into a cybersecurity professional through continuous learning and real-world practice.
 
-## Technical Skills
+## 🧰 Technical Skills
 
-| Area | Technologies and Tools |
-|---|---|
-| Programming | Python, SQL, C/C++ |
-| Cybersecurity | Ethical Hacking Fundamentals, Network Security, Log Analysis, Vulnerability Assessment |
-| SOC & Detection | SIEM Concepts, Alert Triage, MITRE ATT&CK, Wazuh |
-| Networking | TCP/IP, DNS, HTTP/HTTPS, Ports, Network Scanning |
-| Development | Flask, FastAPI, SQLite, Git, GitHub |
-| Environment | Windows, Linux, Kali Linux, VS Code |
+**Programming & Development**
 
-## Featured Projects
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-### 1. [Advanced Cyber Security Toolkit](https://github.com/Nitesh715/Advanced-Cyber-Security-Toolkit)
-A Python GUI toolkit for authorized security analysis, including network utilities, security checks, log analysis, file integrity, and reporting.
+**Cybersecurity & SOC**
 
-### 2. [AI Cyber Security Copilot](https://github.com/Nitesh715/AI-CyberSecurity-Copilot)
-A defensive URL risk-analysis and security-guidance application with a FastAPI backend and browser interface. Current detection uses explainable heuristics.
+![Network Security](https://img.shields.io/badge/Network%20Security-173B5E?style=flat-square)
+![SIEM](https://img.shields.io/badge/SIEM-334155?style=flat-square)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-EF4444?style=flat-square)
+![Log Analysis](https://img.shields.io/badge/Log%20Analysis-475569?style=flat-square)
+![Threat Detection](https://img.shields.io/badge/Threat%20Detection-0F766E?style=flat-square)
+![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability%20Assessment-7C3AED?style=flat-square)
 
-### 3. [Mini-SOC Workbench](https://github.com/Nitesh715/Mini-SOC-Workbench)
-An offline SOC lab for event analysis, rule-based alerting, incident correlation, analyst triage, and MITRE ATT&CK coverage.
+**Tools & Platforms**
 
-### 4. [Threat Detection Mapped to MITRE ATT&CK](https://github.com/Nitesh715/Threat-Detection-Mapped-to-MITRE-ATTACK)
-A project focused on mapping defensive detections to MITRE ATT&CK tactics and techniques with supporting event analysis and documentation.
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-### 5. [AI-Powered Mini SIEM](https://github.com/Nitesh715/AI-Powered-Mini-SIEM-)
-A Flask and SQLite learning SIEM with CSV/JSON log ingestion, explainable risk scoring, alert generation, and a local dashboard. The current version uses rule-based detection, not a trained AI model.
+## 🚀 Featured Projects
 
-## Current Learning Focus
+### 🔹 [Advanced Cyber Security Toolkit](https://github.com/Nitesh715/Advanced-Cyber-Security-Toolkit)
+Python desktop toolkit for authorized defensive security checks, including network utilities, vulnerability checks, packet analysis, log analysis, file integrity verification, and reporting.
 
-- Security monitoring and SIEM workflows
+### 🔹 [AI Cyber Security Copilot](https://github.com/Nitesh715/AI-CyberSecurity-Copilot)
+FastAPI and browser-based defensive URL risk-analysis tool with explainable heuristic signals and recommended response guidance. **Current scoring is heuristic-based, not a trained ML model.**
+
+### 🔹 [Mini-SOC Workbench](https://github.com/Nitesh715/Mini-SOC-Workbench)
+Offline-first SOC lab with event ingestion, configurable detection rules, alert correlation, analyst case triage, and ATT&CK technique mapping.
+
+### 🔹 [Threat Detection Mapped to MITRE ATT&CK](https://github.com/Nitesh715/Threat-Detection-Mapped-to-MITRE-ATTACK)
+Detection-engineering project mapping rule-based detections to MITRE ATT&CK tactics and techniques, with event exploration and case investigation workflows.
+
+### 🔹 [AI-Powered Mini SIEM](https://github.com/Nitesh715/AI-Powered-Mini-SIEM-)
+Flask and SQLite learning SIEM for CSV/JSON log ingestion, explainable risk scoring, alert generation, and dashboard-based event review. **The current version uses transparent rules, not a trained AI model.**
+
+## 🎯 Current Learning Focus
+
+- Security monitoring and SIEM operations
 - Detection engineering and MITRE ATT&CK mapping
 - Python automation for defensive security
 - Network security and vulnerability assessment
-- Building and documenting practical cybersecurity projects
+- Incident triage, log analysis, and security reporting
 
-## GitHub Activity
+## 📊 GitHub Overview
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nitesh715&show_icons=true&hide_border=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nitesh715&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh715&layout=compact&hide_border=true&theme=github_dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Nitesh715&theme=github-dark-blue&hide_border=true)
 
 </div>
 
@@ -71,6 +91,6 @@ A Flask and SQLite learning SIEM with CSV/JSON log ingestion, explainable risk s
 <div align="center">
 
 **Thanks for visiting my profile!**  
-*Learning, building, and improving one project at a time.*
+*Learn continuously. Build responsibly. Secure by design.*
 
 </div>
