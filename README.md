@@ -2,6 +2,8 @@
 
 <img src="assets/profile-banner.svg" alt="Nitesh — Cybersecurity, Python and SOC" width="100%"/>
 
+<img src="assets/nitesh-profile-photo.jpg" alt="Nitesh profile photo" width="128" />
+
 ### Cybersecurity Student | Python Developer | SOC & Threat Detection Enthusiast
 
 Building practical, explainable cybersecurity projects across defensive tooling, phishing triage, SOC detection engineering, and SIEM workflows.
