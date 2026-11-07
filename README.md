@@ -67,6 +67,18 @@ Detection-engineering project mapping rule-based detections to MITRE ATT&CK tact
 ### 🔹 [AI-Powered Mini SIEM](https://github.com/Nitesh715/AI-Powered-Mini-SIEM-)
 Flask and SQLite learning SIEM for CSV/JSON log ingestion, explainable risk scoring, alert generation, and dashboard-based event review. **The current version uses transparent rules, not a trained AI model.**
 
+## 🖼️ Project Visuals
+
+The Toolkit image is a genuine app capture. The other dashboard previews are illustrative mockups, labeled in their project READMEs.
+
+<div align="center">
+  <a href="https://github.com/Nitesh715/Advanced-Cyber-Security-Toolkit"><img src="https://raw.githubusercontent.com/Nitesh715/Advanced-Cyber-Security-Toolkit/main/screenshots/main_gui.png" alt="Advanced Cyber Security Toolkit application screenshot" width="48%"></a>
+  <a href="https://github.com/Nitesh715/Threat-Detection-Mapped-to-MITRE-ATTACK"><img src="https://raw.githubusercontent.com/Nitesh715/Threat-Detection-Mapped-to-MITRE-ATTACK/main/screenshots/dashboard-mockup.svg" alt="Threat Detection illustrative dashboard mockup" width="48%"></a>
+  <br/>
+  <a href="https://github.com/Nitesh715/Mini-SOC-Workbench"><img src="https://raw.githubusercontent.com/Nitesh715/Mini-SOC-Workbench/main/screenshots/dashboard-mockup.svg" alt="Mini-SOC illustrative dashboard mockup" width="48%"></a>
+  <a href="https://github.com/Nitesh715/AI-Powered-Mini-SIEM-/blob/main/screenshots/dashboard-mockup.svg"><img src="https://raw.githubusercontent.com/Nitesh715/AI-Powered-Mini-SIEM-/main/screenshots/dashboard-mockup.svg" alt="Mini SIEM illustrative dashboard mockup" width="48%"></a>
+</div>
+
 ## 🎯 Current Learning Focus
 
 - Security monitoring and SIEM operations
