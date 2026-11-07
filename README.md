@@ -4,7 +4,7 @@
 
 ### Cybersecurity Student | Python Developer | SOC & Threat Detection Enthusiast
 
-Building practical defensive security tools, detection workflows, and security automation projects.
+Building practical, explainable cybersecurity projects across defensive tooling, phishing triage, SOC detection engineering, and SIEM workflows.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Nitesh715-181717?style=for-the-badge&logo=github)](https://github.com/Nitesh715)
 [![Repositories](https://img.shields.io/badge/Explore-My%20Projects-0A66C2?style=for-the-badge&logo=github)](https://github.com/Nitesh715?tab=repositories)
